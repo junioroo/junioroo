@@ -1,16 +1,15 @@
-### Hi there 👋
+**Skills**
 
-<!--
-**junioroo/junioroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
 
-Here are some ideas to get you started:
+- **Languages**:
+    
+    ![Node.js](https://img.shields.io/badge/Node.js%20-%23026E00.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+    ![TypeScript](https://img.shields.io/badge/TypeScript%20-%233178C6?&logo=typescript&logoColor=white&style=for-the-badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Databases**:
+
+    ![MongoDB](https://img.shields.io/badge/MongoDB%20-%2313AA52.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+    ![Redis](https://img.shields.io/badge/Redis%20-%23963029.svg?style=for-the-badge&logo=redis&logoColor=white)
+    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+</p>
