@@ -4,7 +4,9 @@
 
 - **Languages**:
     
-    ![Node.js](https://img.shields.io/badge/Node.js%20-%23026E00.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+    ![Elixir](https://img.shields.io/badge/Elixir%20-%234B275F.svg?logo=elixir&logoColor=white&style=for-the-badge)
+    ![Go](https://img.shields.io/badge/Go%20-%2300ADD8.svg?logo=go&logoColor=white&style=for-the-badge)
+    ![Node.js](https://img.shields.io/badge/Node.js%20-%23026E00.svg?logo=nodedotjs&logoColor=white&style=for-the-badge)
     ![TypeScript](https://img.shields.io/badge/TypeScript%20-%233178C6?&logo=typescript&logoColor=white&style=for-the-badge)
 
 - **Databases**:
